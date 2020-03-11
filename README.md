@@ -1,3 +1,9 @@
+# Self-driving-drone-code
+
+A place for code development and improvements for Nokia Garage project "Self-driving Drone" Everything below comes from original donkeycar repo
+
+
+
 # donkeycar: a python self driving library
 
 [![Build Status](https://travis-ci.org/autorope/donkeycar.svg?branch=dev)](https://travis-ci.org/autorope/donkeycar)
